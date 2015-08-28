@@ -1,0 +1,409 @@
+====================================================
+====== crosscol1 ===================================
+====================================================
+<div class="cbp-af-header cbp-af-header-shrink">
+            <div class="cbp-af-inner container">
+                <h1 class="logo-black"><a href="/"><img alt="Chụp ảnh cưới livia studio" src="https://lh3.googleusercontent.com/-YRu5TeGj1fY/Vd1uR_bctnI/AAAAAAAADVk/b8WQiiuZa3k/s256-Ic42/chupanhcuoi-logo.png" /></a></h1>
+                <nav>
+                    <ul>
+                        <li><a href="/2-gioi-thieu/">Giới thiệu</a></li>
+                        <li><a href="#price">Bảng giá</a></li>
+                        <li><a href="#services">Dịch vụ</a></li>
+                        <li><a href="#newest-album">Album đẹp</a></li>
+                        <li><a href="#news">Cẩm nang cưới</a></li>
+                        <li><a href="#contact">Liên hệ</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+<script src="https://googledrive.com/host/0B6VPdDmQ3kwmZ1pSaGlLcll6Ums" type="text/javascript"></script>
+<script src="https://googledrive.com/host/0B6VPdDmQ3kwmZHJaWmNTamFtZTA" type="text/javascript"></script>
+
+====================================================
+====== headertop ===================================
+====================================================
+
+<div class="row">
+                    <div class="span3">
+                        <h1 class="logo"><a href="/"><img alt="chup anh cuoi" src="https://lh3.googleusercontent.com/-dcqru9Ssnys/Vd1yBt38NYI/AAAAAAAADWU/AH15AEDezfc/s113-Ic42/logo-chupanhcuoi.png" /></a></h1>
+                    </div><!--End span3 -->
+
+                    <div class="span8 offset1 clearfix">
+                        <nav class="main-navigation clearfix">
+                            <ul>
+                                <li><a href="/2-gioi-thieu/">Giới thiệu</a></li>
+                                <li><a href="/#price">Bảng giá</a></li>
+                                <li><a href="/#services">Dịch vụ</a></li>
+                                <li><a href="/#newest-album">Album đẹp</a></li>
+                                <li><a href="/#news">Cẩm nang cưới</a></li>
+                                <li><a href="/#contact">Liên hệ</a></li>
+
+                            </ul>
+                        </nav><!--End .main-navigation -->
+
+                    </div><!--End span9 -->
+                </div>
+<a id="rwd-top-nav-btn"><i class="icon-list icon-white"></i></a>
+<div class="row rwd-navigation" style="display: none;"><ul>
+                                <li><a href="/2-gioi-thieu/">Giới thiệu</a></li>
+                                <li><a href="/#price">Bảng giá</a></li>
+                                <li><a href="/#services">Dịch vụ</a></li>
+                                <li><a href="/#newest-album">Album đẹp</a></li>
+                                <li><a href="/#news">Cẩm nang cưới</a></li>
+                                <li><a href="/#contact">Liên hệ</a></li>
+
+                            </ul></div>
+	<script>
+$(document).ready(function(){
+    $('#rwd-top-nav-btn').click(function(event){
+				event.preventDefault();
+				$('.rwd-navigation').slideToggle();
+			});
+});
+</script>
+
+====================================================================================
+
+<div class="row">
+<div class="banner span12">
+        <div class="slider-wrapper theme-default">
+        <div id="slider" class="nivoSlider">
+                        <img src="http://4.bp.blogspot.com/-FX6xV33ICo4/VGr32GXedBI/AAAAAAAADL0/ReznELgnbJ0/s1600/1_resize.jpg" alt="Chup anh cuoi dep tại Áo Cưới Livia" /> 
+						<img src="http://2.bp.blogspot.com/-wTUn-G2yNRQ/VGr33OieBiI/AAAAAAAADMM/Em75vVUNORg/s1600/3_resize.jpg" alt="Chup anh cuoi dep tại Áo Cưới Livia" />     
+						<img src="http://1.bp.blogspot.com/-3a0AH7IoSfE/VGr33vienKI/AAAAAAAADMQ/W8YwvMWMM-c/s1600/5_resize.JPG" alt="Chup anh cuoi dep tại Áo Cưới Livia" /> 
+						<img src="http://4.bp.blogspot.com/--rS1A6T2idk/VGr34qXJF6I/AAAAAAAADMk/tkhms1SGA18/s1600/7_resize.jpg" alt="Chup anh cuoi dep tại Áo Cưới Livia" /> 
+						<img src="http://4.bp.blogspot.com/-j1OW6ndXRg4/VGr34w_ALrI/AAAAAAAADMo/voKuHdBn2l0/s1600/8_resize.jpg" alt="Chup anh cuoi dep tại Áo Cưới Livia" /> 
+						<img src="http://1.bp.blogspot.com/--LNBaxa5kN8/VGr35ttBikI/AAAAAAAADMw/zGKS0fa0cJg/s1600/9_resize.jpg" alt="Chup anh cuoi dep tại Áo Cưới Livia" /> 
+						<img src="http://4.bp.blogspot.com/-LOXrykcc4Is/VGr32G8z5vI/AAAAAAAADLw/XGlcGC9od4Q/s1600/10_resize.jpg" alt="Chup anh cuoi dep tại Áo Cưới Livia" /> 						
+		</div>
+    </div>
+
+    <script type="text/javascript">
+        $(window).load(function() {
+            $('#slider').nivoSlider();
+        });
+    </script>
+    </div><!--End banner -->
+</div><!--End row -->
+
+=========================================================================================
+
+<div class="slogan-container">
+	<h1 class="slogan">Sự lựa chọn hoàn hảo cho ngày cưới</h1>
+	<p class="desc">Đến với chúng tôi, bạn có thể tự do lựa chọn nhiều mẫu áo cưới đẹp với thiết kế “riêng mình mình có”, cùng những chương trình khuyến mãi đặc biệt </p>
+</div>
+
+
+=========================================================================================
+
+====================================================
+====== product ===================================
+====================================================
+
+<div id="price">
+    <div class="container">
+        <h1>Bảng giá dịch vụ trọn gói</h1>
+        <div class="row">
+            <div class="span12">
+                <div class="row">
+                                                            <div class="span2">
+                        <h4 class="pink"> Tiết Kiệm</h4>
+                        <div class="price pink">
+                            <span>1.500.000đ</span>
+                        </div>
+                                                <ul class="clearfix">
+                            
+                                                        <li>---</li>
+                                                        <li>01 Album 13x18cm</li>
+                                                        <li>02 Ảnh lớn 50x75 cm</li>
+                                                        <li>01 váy cưới</li>
+                                                        <li>01 áo dài cô dâu</li>
+                              
+                           
+                        </ul>
+                        <a class="detail-btn pink" href="/2013/04/chup-anh-cuoi-re-dep-nhat-ha-noi-tron-goi-2trieu1.html#G0">Xem chi tiết <i class="icon-chevron-right icon-white"></i></a>
+                    </div><!--End span2 -->
+                                        <div class="span2">
+                        <h4 class="orange">Gói Vip 1 </h4>
+                        <div class="price orange">
+                            <span>2.900.000đ</span>
+                        </div>
+                                                <ul class="clearfix">
+                            
+                                                        <li>---</li>
+                                                        <li>01 Album 20x20cm</li>
+                                                        <li>02 Ảnh lớn 50x75cm</li>
+                                                        <li>01 váy cưới</li>
+                                                        <li>01 áo dài cô dâu</li>
+                              
+                           
+                        </ul>
+                        <a class="detail-btn orange" href="/2013/04/chup-anh-cuoi-re-dep-nhat-ha-noi-tron-goi-2trieu1.html#G1">Xem chi tiết <i class="icon-chevron-right icon-white"></i></a>
+                    </div><!--End span2 -->
+                                        <div class="span2">
+                        <h4 class="light-green">Gói Vip 2:</h4>
+                        <div class="price light-green">
+                            <span>3.990.000đ</span>
+                        </div>
+                                                <ul class="clearfix">
+                            
+                                                        <li>02 Ảnh lớn 50x75</li>
+                                                        <li>01 Album 25x35cm</li>                                                        
+														<li>1 ảnh để bàn</li>
+                                                        <li>01 váy cưới</li>
+                                                        <li>01 áo dài cô dâu</li>
+                              
+                           
+                        </ul>
+                        <a class="detail-btn light-green" href="/2013/04/chup-anh-cuoi-re-dep-nhat-ha-noi-tron-goi-2trieu1.html#G2">Xem chi tiết <i class="icon-chevron-right icon-white"></i></a>
+                    </div><!--End span2 -->
+                                        <div class="span2">
+                        <h4 class="dark-green">Gói Vip 3:</h4>
+                        <div class="price dark-green">
+                            <span>4.390.000đ</span>
+                        </div>
+                                                <ul class="clearfix">
+                            
+                                                        <li>Tặng Vest cưới</li>
+                                                        <li>01 Album 25x25cm</li>
+                                                        <li>02 Ảnh lớn 60x90</li>
+                                                        <li>01 ảnh đề bàn</li>
+														<li>01 váy cưới</li>
+                                                        
+                              
+                           
+                        </ul>
+                        <a class="detail-btn dark-green" href="/2013/04/chup-anh-cuoi-re-dep-nhat-ha-noi-tron-goi-2trieu1.html#G3">Xem chi tiết <i class="icon-chevron-right icon-white"></i></a>
+                    </div><!--End span2 -->
+                                        <div class="span2">
+                        <h4 class="blue">Gói Vip 4:</h4>
+                        <div class="price blue">
+                            <span>4.990.000đ</span>
+                        </div>
+                                                <ul class="clearfix">
+                            
+                                                        <li>Tặng Vest cưới</li>
+                                                        <li>01 Album 25x35cm</li>
+                                                        <li>02 Ảnh lớn 60x90</li>
+
+                                                        <li>01 ảnh để bàn</li>
+														<li>01 váy cưới</li>
+                                                        
+                              
+                           
+                        </ul>
+                        <a class="detail-btn blue" href="/2013/04/chup-anh-cuoi-re-dep-nhat-ha-noi-tron-goi-2trieu1.html#G4">Xem chi tiết <i class="icon-chevron-right icon-white"></i></a>
+                    </div><!--End span2 -->
+                                        <div class="span2">
+                        <h4 class="pink">Gói Vip 5:</h4>
+                        <div class="price pink">
+                            <span>6.660.000đ</span>
+                        </div>
+                                                <ul class="clearfix">
+                            
+                                                        <li>Tặng Vest Cưới</li>
+                                                        <li>01 Album 25x38cm</li>
+                                                        <li>02 Ảnh lớn 60x90</li>
+                                                        <li>01 album mini</li>
+														<li>01 váy cưới</li>
+                                                        
+                              
+                           
+                        </ul>
+                        <a class="detail-btn pink" href="/2013/04/chup-anh-cuoi-re-dep-nhat-ha-noi-tron-goi-2trieu1.html#G5">Xem chi tiết <i class="icon-chevron-right icon-white"></i></a>
+                    </div><!--End span2 -->
+                     
+                        
+                </div>
+            </div>
+
+        </div><!--End row -->
+    </div><!--End container -->
+</div>
+
+=========================================================================================
+<div data-speed="10" data-type="background" id="slogan-parallax" style="background-position: 50% -121.2px;">
+    <div class="container">
+        <h1>Áo cưới livia mang đến cho bạn dịch vụ tốt nhất</h1>
+        <h1>Call: 090.449.6336</h1>
+    </div><!--End container -->
+</div>
+
+=========================================================================================
+
+<div id="services">
+    <div class="container">
+        <h1>Dịch vụ chính</h1>
+        <div class="row-fluid">
+
+            <div class="flexslider">
+                
+            <div class="flex-viewport" style="overflow: hidden; position: relative;"><ul class="slides" style="width: 1000%; transition-duration: 0s; transform: translate3d(-300px, 0px, 0px);">
+                                        <li style="width: 220px; float: left; display: block;">	
+                        <div class="service-icon">
+                            <img alt="" src="https://lh3.googleusercontent.com/-ePnKyOQNuIo/Vd20pucbkpI/AAAAAAAAKgE/Nnu78Va4NKo/s128-Ic42/film_icon.png" />
+                        </div><!--End service-icon -->
+                        <h4><a href="/dich-vu-cuoi/quay-phim-a2.html">Quay phim</a></h4>
+                        <p>Ngoài việc chụp ảnh cưới Livia sẽ mang đến cho quý khách những thước phim sống động, ý n...</p>
+                        <button onclick="window.location='/dich-vu-cuoi/quay-phim-a2.html'" class="readmore">
+                            <span class="icon-square-small"></span>
+                            <span class="icon-square-small"></span>
+                            <span class="icon-square-small"></span>
+                        </button>
+                    </li>
+                                        <li style="width: 220px; float: left; display: block;">	
+                        <div class="service-icon">
+                            <img alt="" src="https://lh3.googleusercontent.com/-MPO-bPfcfNg/Vd20pFuV5LI/AAAAAAAAKgI/TrPumjx3xXo/s128-Ic42/dress_icon.png" />
+                        </div><!--End service-icon -->
+                        <h4><a href="/dich-vu-cuoi/vay-cuoi-a3.html">Váy cưới</a></h4>
+                        <p>Ảnh vện áo cưới Livia cung cấp nhiều mẫu áo cưới mới, thời trang nhất để phù hợp với chụ...</p>
+                        <button onclick="window.location='/dich-vu-cuoi/vay-cuoi-a3.html'" class="readmore">
+                            <span class="icon-square-small"></span>
+                            <span class="icon-square-small"></span>
+                            <span class="icon-square-small"></span>
+                        </button>
+                    </li>
+                                        <li style="width: 220px; float: left; display: block;">	
+                        <div class="service-icon">
+                            <img alt="" src="https://lh3.googleusercontent.com/-Oatl3xgQ7yI/Vd20pz6QhYI/AAAAAAAAKf4/Tw_EDjGpiB4/s128-Ic42/flower_icon.png" />
+                        </div><!--End service-icon -->
+                        <h4><a href="/dich-vu-cuoi/hoa-cuoi-a4.html">Hoa cưới</a></h4>
+                        <p>Chúng tôi giúp bạn chọn những bó hoa cưới đẹp, tinh tế và phù hợp với bộ váy cưới và buổi...</p>
+                        <button onclick="window.location='/dich-vu-cuoi/hoa-cuoi-a4.html'" class="readmore">
+                            <span class="icon-square-small"></span>
+                            <span class="icon-square-small"></span>
+                            <span class="icon-square-small"></span>
+                        </button>
+                    </li>
+                                        <li style="width: 220px; float: left; display: block;">	
+                        <div class="service-icon">
+                            <img alt="" src="https://lh3.googleusercontent.com/-KR8UgfFSMUk/Vd20pQJ9zkI/AAAAAAAAKfY/H84USpSDZoo/h120/brush_icon.png" />
+                        </div><!--End service-icon -->
+                        <h4><a href="/dich-vu-cuoi/trang-diem-a5.html">Trang điểm</a></h4>
+                        <p>Chúng tôi luôn cập nhật những phong cách trang điểm mới theo xu hướng thời trang thế giới...</p>
+                        <button onclick="window.location='/dich-vu-cuoi/trang-diem-a5.html'" class="readmore">
+                            <span class="icon-square-small"></span>
+                            <span class="icon-square-small"></span>
+                            <span class="icon-square-small"></span>
+                        </button>
+                    </li>
+                                        <li style="width: 220px; float: left; display: block;">	
+                        <div class="service-icon">
+                            <img alt="" src="https://lh3.googleusercontent.com/-bYVIPWuvhBU/Vd20pBIWMeI/AAAAAAAAKgM/5s3R4TLAD2o/s128-Ic42/camera_icon.png" />
+                        </div><!--End service-icon -->
+                        <h4><a href="/dich-vu-cuoi/chup-anh-cuoi-a1.html">Chụp ảnh cưới</a></h4>
+                        <p>Ảnh viện áo cưới Livia mang lại cho các bạn trẻ buổi chụp ảnh cưới ngọt ngào, độc đáo, p...</p>
+                        <button onclick="window.location='/dich-vu-cuoi/chup-anh-cuoi-a1.html'" class="readmore">
+                            <span class="icon-square-small"></span>
+                            <span class="icon-square-small"></span>
+                            <span class="icon-square-small"></span>
+                        </button>
+                    </li>
+                                        
+                </ul></div></div><!--End flexslider -->
+
+        </div><!--End row -->
+    </div><!--End container -->
+</div>
+=========================================================================================
+<div id="newest-album">
+    <div class="container">
+        <h1>Album mới nhất</h1>
+        <ul class="thumbnails">
+                <script>
+			document.write("<script src=\"/feeds/posts/default/-/album?max-results="+8+"&orderby=published&alt=json-in-script&callback=showrecentposts221\"><\/script>");	
+			</script>                    
+                        
+            
+                                    
+        </ul>
+        <button onclick="window.location='/search/label/album-anh-cuoi'" class="view-all">Xem tất cả</button>
+    </div>
+</div>
+
+=========================================================================================
+<div id="news">
+    <div class="container">
+        <h1>Cẩm nang mùa cưới</h1>
+        <div class="row-fluid">
+            <ul class="thumbnails">
+<script>
+			document.write("<script src=\"/feeds/posts/default/-/news?max-results="+3+"&orderby=published&alt=json-in-script&callback=showrecentposts552\"><\/script>");	
+			</script>
+                                
+                                
+            </ul>
+            <button onclick="window.location='/search/label/tin-tuc'" class="view-all">Xem tất cả</button>
+        </div><!--End row -->
+    </div>
+</div>
+
+=========================================================================================
+<div data-speed="10" data-type="background" id="slogan-parallax-02" style="background-position: 50% -371.4px;">
+    <div class="container">
+        <div class="hotline-icon">
+            <img alt="" src="https://lh3.googleusercontent.com/-jcHhUIb25jE/Vd20qOhGmxI/AAAAAAAAKf0/5LFjK2xkFaA/s128-Ic42/icon_phone.png" />
+        </div>
+        <h1>090.449.6336</h1>
+        <span class="line-name"></span><span>Mr.Thọ</span><span class="line-name"></span>
+    </div><!--End container -->
+</div>
+
+=========================================================================================
+
+<div id="contact">
+    <div class="container">
+        <h1>Liên hệ với chúng tôi</h1>
+        <div class="row">
+            <div id="contact_form" class="span6">
+                <div class="row-fluid">
+                    <form class="form-vertical">
+                        <input type="text" placeholder="Họ và tên" id="inputFullName" class="form-input span12" />
+                        <input type="text" placeholder="Email" id="inputEmail" class="form-input span12" />
+                        <input type="text" placeholder="Số điện thoại" id="inputPhone" class="form-input span12" />
+                        <textarea id="inputMessage" class="form-content span12" rows="7"></textarea>
+                        <input type="text" placeholder="Mã bảo vệ" id="inputSercurityCode" class="form-input span6 secure" />                        
+                        <button id="send_contact" type="button" class="send-button">Gửi đi</button>
+                    </form>
+                </div>
+            </div><!--End span6 -->
+
+            <div class="span6">
+                <ul class="contact-info">
+                    <li>ẢNH VIÊN ÁO CƯỚI LIVIA</li>
+                    <li>Add: 28 thượng đình (Ngã Tư Sở ) cách 93 Nguyễn Trãi 100m đi theo đường bờ sông Tô Lịch</li>
+                    <li>Email: livia402kd@gmail.com</li>
+                </ul>
+                <div class="phone-contact clearfix">
+                    <img alt="" src="https://lh3.googleusercontent.com/-nRSeJmaBaIo/Vd20qY8SFHI/AAAAAAAAKf8/1FP4BteJjvw/s128-Ic42/icon_phone02.png" />
+                    <div class="phone-number">
+                        <p>04.666.371.22 <span>(Tư vấn photoshop)</span></p>
+                        <p>09.1441.2930 <span>(Tư vấn đặt lịch)</span></p>  
+                        <p>090.449.6336 <span>(Tư vấn địa điểm)</span></p>
+                    </div>
+                </div>
+                <div class="maps">
+                    
+                        <img width="100%" alt="" src="http://3.bp.blogspot.com/-7it3Z680Hxs/VYI91EiWMtI/AAAAAAAADSI/YCcFPqpV2NU/s1600/livia-wedding.jpg" />
+                    
+                </div>
+            </div><!--End span6 -->
+        </div>
+
+				
+    </div><!--End container -->
+</div>
+
+====================================================
+====== footer ===================================
+====================================================
+
+<div class="container">
+	<div class="row">
+		<div class="span6"><p class="copyright">Copyright &copy; 2013 Livia Wedding studio -  All rights reserved.</p>					
+		</div>
+		<div class="span6"><!--<p class="counter">Lượt truy cập: <span>288,919</span> | Đang online: <span>10</span></p>--></div>
+	</div>
+</div>
+<a href="#page-top" id="scroll-top">Top</a>
+<script src="https://googledrive.com/host/0B9NQvUvsokJ0MUxrczctM3RMMTg" type="text/javascript"></script>
